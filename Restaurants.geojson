@@ -132,6 +132,22 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Another Pizza",
+        "Address": "2000 S University Blvd Denver, CO 80210",
+        "Website": "http://www.blackjackpizza.com",
+        "Type": "Pizza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.955,
+          39.6720
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Front Porch Cafe",
         "Address": "Address :)",
         "Website": "du-dining.com",
